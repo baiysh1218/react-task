@@ -1,0 +1,19 @@
+.tabble {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+td {
+  padding: 3%;
+  background-color: rgba(44, 107, 166, 0.84);
+  color: white;
+}
+.table {
+  width: 25%;
+  border: 5px;
+  background-color: rgb(47, 47, 47);
+  border-radius: 5px;
+}
